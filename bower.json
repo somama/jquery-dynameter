@@ -19,7 +19,8 @@
     "**/.*",
     "test",
     "Gruntfile.js",
-    "package.json"
+    "package.json",
+    "index.html"
   ],
   "dependencies": {
     "jquery": ">=1.10.2"
