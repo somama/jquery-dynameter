@@ -5,6 +5,7 @@
     "Tzechiu Lei tclei2009@gmail.com http://tze1.com/"
   },
   "description": "A jQuery plugin that transforms your empty DIV into a dynamic, semi-circular value-meter.  2.6k minified.  Works in Chrome35+, Firefox29+, IE9+.",
+  "main": ["js/jquery.dynameter.js","css/jquery.dynameter.css"],
   "keywords": [
     "jQuery",
     "plugin",
