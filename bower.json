@@ -24,6 +24,12 @@
       "url": "http://tze1.com/dynameter/license.txt"
     }
   ],
+  "ignore": [
+    "**/.*",
+    "test",
+    "Gruntfile.js",
+    "package.json"
+  ],
   "dependencies": {
     "jquery": ">=1.10.2"
   }
